@@ -1,0 +1,10 @@
+{
+    "SERVER_NICKNAME":{
+        "connection_string": "saved_putty_session_name",
+        "idle_recursive": true
+    },
+    "SERVER_NICKNAME2":{
+        "connection_string": "-pw PASSWORD USERNAME@HOSTNAME_OR_IP",
+        "idle_recursive": false
+    }
+}

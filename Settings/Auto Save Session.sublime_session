@@ -152,20 +152,60 @@
 						"buffer_size": 34581,
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/home/rafael/.config/sublime-text-2/Packages/SublimeCodeIntel/python_codeintel.py",
+					"settings":
+					{
+						"buffer_size": 32345,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"pag",
+						"Package Control: Add Repository"
+					]
 				],
-				"width": 0.0
+				"width": 530.0
 			},
 			"console":
 			{
-				"height": 0.0
+				"height": 129.0
 			},
 			"distraction_free":
 			{
@@ -178,8 +218,16 @@
 			},
 			"file_history":
 			[
+				"/home/rafael/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/rafael/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
 				"/home/rafael/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
-				"/home/rafael/.config/sublime-text-2/Packages/User/Base File.sublime-settings"
+				"/home/rafael/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/rafael/.config/sublime-text-2/Packages/Seld/phpLint.py",
+				"/home/rafael/.config/sublime-text-2/Packages/JSDocs/jsdocs.sublime-settings",
+				"/home/rafael/.config/sublime-text-2/Packages/User/jsdocs.sublime-settings",
+				"/home/rafael/workspace/siteblindado/port/app/models/log.rb",
+				"/home/rafael/.config/sublime-text-2/Packages/SFTP/Default (Linux).sublime-keymap",
+				"/home/rafael/.config/sublime-text-2/Packages/User/Ruby.sublime-settings"
 			],
 			"find":
 			{
@@ -200,6 +248,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"defi",
+					"click",
+					"alt",
+					"alt ",
+					"alt",
+					"button1",
+					"alt",
+					"d <> ?\", atual.i",
+					" <> ?\", ",
+					"alt",
 					"space"
 				],
 				"highlight": true,
@@ -239,18 +297,47 @@
 								"selection":
 								[
 									[
-										2538,
-										2538
+										6001,
+										6001
 									]
 								],
 								"settings":
 								{
+									"spell_check": false,
 									"syntax": "Packages/Ruby/Ruby.tmLanguage",
 									"tab_size": 2.0,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2175.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/rafael/.config/sublime-text-2/Packages/SublimeCodeIntel/python_codeintel.py",
+							"settings":
+							{
+								"buffer_size": 32345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2651,
+										2651
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4.0,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 672.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -264,7 +351,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"layout":
 			{
@@ -289,6 +376,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.tests":
+			{
+				"height": 104.0
+			},
 			"position": "0,1,0,0,0,0,0,0,0,1920,976",
 			"replace":
 			{
